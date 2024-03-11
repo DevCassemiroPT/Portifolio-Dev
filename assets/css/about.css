@@ -1,54 +1,52 @@
 
-/* # Sobre - Refaturar*/
-
-.services .icon-box {
+.sobre .icon-box {
   margin-bottom: 20px;
 }
 
-.services .icon {
-  float: left;
-  display: flex;
+.sobre .icon {
   align-items: center;
-  justify-content: center;
-  width: 54px;
-  height: 54px;
   background: #149ddd;
   border-radius: 50%;
-  transition: 0.5s;
   border: 1px solid #149ddd;
+  display: flex;
+  float: left;
+  height: 54px;
+  justify-content: center;
+  transition: 0.5s;
+  width: 54px;
 }
 
-.services .icon i {
+.sobre .icon i {
   color: #fff;
   font-size: 24px;
   line-height: 0;
 }
 
-.services .icon-box:hover .icon {
+.sobre .icon-box:hover .icon {
   background: #fff;
 }
 
-.services .icon-box:hover .icon i {
+.sobre .icon-box:hover .icon i {
   color: #149ddd;
 }
 
-.services .title {
-  margin-left: 80px;
+.sobre .title {
   font-weight: 700;
-  margin-bottom: 15px;
   font-size: 18px;
+  margin-bottom: 15px;
+  margin-left: 80px;
 }
 
-.services .title a {
+.sobre .title a {
   color: #343a40;
 }
 
-.services .title a:hover {
+.sobre .title a:hover {
   color: #149ddd;
 }
 
-.services .description {
-  margin-left: 80px;
-  line-height: 24px;
+.sobre .description {
   font-size: 14px;
+  line-height: 24px;
+  margin-left: 80px;
 }
