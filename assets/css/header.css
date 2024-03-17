@@ -13,10 +13,10 @@
   }
   
   #header .profile img {
-    border: 8px solid #2c2f3f;
+    border: 6px solid #2c2f3f;
     display: block;
     margin: 15px auto;
-    width: 120px;
+    width: 175px;
   }
   
   #header .profile h1 {
@@ -40,14 +40,14 @@
     border-radius: 50%;
     color: #fff;
     display: inline-block;
-    font-size: 18px;
+    font-size: 23px;
     height: 36px;
     line-height: 1;
     margin-right: 4px;
     padding: 8px 0;
     text-align: center;
     transition: 0.3s;
-    width: 36px;
+    width: 38px;
   }
   
   #header .profile .social-links a:hover {
